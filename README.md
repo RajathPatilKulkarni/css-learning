@@ -24,7 +24,7 @@ The repository is organized into several directories, each representing a projec
 - `Sass`: Contains the `index.html` file and potentially other files related to learning and implementing Sass. It might not include a `styles.css` file directly, as Sass projects often use `.scss` or `.sass` files that are compiled into CSS.
 - `Simple Web Page`: Contains the `index.html` and `styles.css` files for building a simple webpage using CSS.
 - `Transitions and Animations`: Contains the `index.html` and `styles.css` files related to CSS transitions and animations.
-- `Web Accesibility`: Contains the `index.html` and `styles.css` files related to web accessibility.
+- `Web Accessibility`: Contains the `index.html` and `styles.css` files related to web accessibility.
 
 ## Contributing
 
