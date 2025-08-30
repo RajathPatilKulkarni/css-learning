@@ -14,12 +14,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Project Structure
 
-The repository is organized into several directories, each containing a specific CSS learning project:
+The repository is organized into several directories, each representing a project created per module. Each directory primarily contains an `index.html` file for the HTML structure. Most directories also contain a `styles.css` file for the CSS styling:
 
-- `Portfolio Page`: Contains files related to building a portfolio webpage.
-- `Product Showcase Page`: Contains files related to creating a product showcase webpage.
-- `Responsive Multi Column Layout`: Contains files related to implementing a responsive multi-column layout using CSS.
-- `Simple Web Page`: Contains files related to building a simple webpage using CSS.
+- `Portfolio Page`: Contains the `index.html` and `styles.css` files for building a portfolio webpage.
+- `Product Showcase Page`: Contains the `index.html` and `styles.css` files for creating a product showcase webpage.
+- `Responsive Multi Column Layout`: Contains the `index.html` and `styles.css` files for implementing a responsive multi-column layout using CSS.
+- `Responsive Portfolio Page`: Contains the `index.html` and `styles.css` files for building a responsive portfolio webpage.
+- `Responsive Webpage Using Bootstrap`: Contains the `index.html` and `styles.css` files for building a responsive webpage using Bootstrap.
+- `Sass`: Contains the `index.html` file and potentially other files related to learning and implementing Sass. It might not include a `styles.css` file directly, as Sass projects often use `.scss` or `.sass` files that are compiled into CSS.
+- `Simple Web Page`: Contains the `index.html` and `styles.css` files for building a simple webpage using CSS.
+- `Transitions and Animations`: Contains the `index.html` and `styles.css` files related to CSS transitions and animations.
+- `Web Accesibility`: Contains the `index.html` and `styles.css` files related to web accessibility.
 
 ## Contributing
 
