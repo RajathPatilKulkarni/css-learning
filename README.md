@@ -1,12 +1,13 @@
 # css-learning
 
-This repository showcases CSS learning projects and experiments completed as part of the ongoing Cisco Networking Academy CSS Essentials course. It includes various examples and demonstrations of CSS concepts, techniques, and responsive design principles.
+This repository showcases CSS learning projects and experiments completed as part of the Cisco Networking Academy CSS Essentials course. It includes various examples and demonstrations of CSS concepts, techniques, and responsive design principles.
 
 ## Table of Contents
 
 - [License](#license)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Topics Covered](#topics-covered)
 
 ## License
 
@@ -14,8 +15,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Project Structure
 
-The repository is organized into several directories, each representing a project created per module. Each directory primarily contains an `index.html` file for the HTML structure. Most directories also contain a `styles.css` file for the CSS styling:
+The repository is organized into several directories, each representing a project created per module. Each directory primarily contains an `index.html` file for the HTML structure and a `styles.css` file for the CSS styling.
 
+- `Comprehensive Web Design`: Contains the `index.html` and `styles.css` files for building a comprehensive webpage.
 - `Portfolio Page`: Contains the `index.html` and `styles.css` files for building a portfolio webpage.
 - `Product Showcase Page`: Contains the `index.html` and `styles.css` files for creating a product showcase webpage.
 - `Responsive Multi Column Layout`: Contains the `index.html` and `styles.css` files for implementing a responsive multi-column layout using CSS.
@@ -34,3 +36,14 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
 2.  Create a new branch for your feature or bug fix.
 3.  Make your changes and ensure they are well-documented.
 4.  Submit a pull request.
+
+## Topics Covered
+
+This repository covers a range of CSS topics, including:
+
+-   **Core CSS Concepts**: Basic CSS syntax, selectors, properties, and values.
+-   **Responsive Web Design**: Media queries, flexible layouts, and responsive images.
+-   **Modern Styling Techniques**: CSS Grid, Flexbox, transitions, animations, and transforms.
+-   **CSS Preprocessors**: Sass (Syntactically Awesome Style Sheets)
+-   **Frameworks**: Bootstrap
+-   **Web Accessibility**: Semantic HTML, ARIA attributes, and accessibility best practices.
